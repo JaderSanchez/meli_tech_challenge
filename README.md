@@ -2,6 +2,9 @@
 
 Solutions to the Mercado Libre technical challenge. Each problem is solved in a separate directory with detailed documentation.
 
+## Prompts documentation
+Documentation about used prompts is in `prompts.md`.
+
 ## Prerequisites
 
 - **Python 3.x**
@@ -13,7 +16,7 @@ Solutions to the Mercado Libre technical challenge. Each problem is solved in a 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JaderSanchez/meli_tech_challenge
 cd meli_tech_challenge
 ```
 
