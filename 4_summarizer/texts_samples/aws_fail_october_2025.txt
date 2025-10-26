@@ -1,0 +1,21 @@
+Amazon enfrenta su mayor interrupción de AWS en octubre de 2025
+
+Durante la mañana del 22 de octubre de 2025, millones de usuarios en todo el mundo se vieron afectados por una caída masiva de Amazon Web Services (AWS), la plataforma de computación en la nube más utilizada del planeta. La interrupción comenzó alrededor de las 8:15 a.m. (hora UTC) y afectó servicios esenciales como sitios web, aplicaciones móviles, sistemas financieros y plataformas de inteligencia artificial que dependen de la infraestructura de Amazon.
+
+Según los primeros reportes, la caída se originó en la región US-East-1, ubicada en Virginia del Norte, considerada el corazón operativo de AWS. Desde allí, los fallos se propagaron rápidamente a otras zonas, generando inestabilidad en redes y servicios críticos. Grandes compañías tecnológicas, servicios de streaming y aplicaciones de delivery experimentaron interrupciones totales o lentitud extrema durante varias horas.
+
+Amazon emitió un primer comunicado reconociendo la falla y asegurando que su equipo de ingeniería estaba “trabajando sin descanso para restablecer la conectividad y aislar el incidente”. Sin embargo, la magnitud del problema hizo que los sistemas de monitoreo interno también se vieran comprometidos, dificultando la identificación rápida de la causa raíz.
+
+Tras casi cuatro horas de interrupción, los servicios comenzaron a restablecerse de manera parcial. No obstante, el tráfico global de internet registró una caída cercana al 12%, según datos de Cloudflare Radar, lo que refleja el enorme impacto que una sola plataforma puede tener en la infraestructura digital del planeta.
+
+Fuentes cercanas a Amazon indicaron posteriormente que la causa principal habría sido una actualización defectuosa del sistema de balanceo de carga. El error provocó un bucle de reinicios automáticos que afectó los nodos principales del servicio de autenticación, lo cual generó fallos en cascada en bases de datos, colas de mensajería y almacenamiento S3.
+
+Analistas de la industria destacaron que este incidente representa una llamada de atención sobre la dependencia excesiva del mundo digital en pocos proveedores de nube. Empresas que operan con arquitecturas multicloud también se vieron afectadas, ya que muchos de sus procesos dependían indirectamente de AWS para integraciones o autenticación.
+
+En Latinoamérica, plataformas de e-commerce, bancos digitales y servicios de logística informaron pérdidas temporales en sus operaciones. En algunos casos, los sistemas de facturación y los puntos de venta dejaron de funcionar, lo que obligó a los negocios a procesar transacciones manualmente.
+
+Amazon aseguró que tomará medidas correctivas inmediatas, incluyendo una revisión completa de sus protocolos de despliegue continuo y una mejora en los sistemas de aislamiento entre regiones. También anunció que compartirá un informe técnico detallado para clientes empresariales antes de fin de mes.
+
+La interrupción de octubre de 2025 se suma a otros incidentes registrados en los últimos años, pero analistas señalan que este fue el más grave en términos de alcance y duración. Algunos expertos sugieren que Amazon podría acelerar sus inversiones en automatización de recuperación ante desastres y sistemas de predicción de fallos.
+
+Con la normalización de los servicios, la empresa busca recuperar la confianza de sus clientes corporativos y reafirmar su liderazgo en el mercado de la nube. Sin embargo, la caída de AWS deja una lección clara: incluso las infraestructuras más sofisticadas del mundo pueden ser vulnerables a un error humano o a una actualización mal ejecutada.

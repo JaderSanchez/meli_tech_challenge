@@ -1,0 +1,10 @@
+En octubre de 2025, millones de usuarios en todo el mundo sufrieron una interrupción masiva de Amazon Web Services (AWS), 
+la plataforma de computación en la nube más utilizada del planeta. La interrupción, que comenzó alrededor de las 8:15 a.m. (hora UTC) 
+y duró aproximadamente cuatro horas, afectó servicios esenciales en sitios web, aplicaciones móviles, sistemas financieros 
+y plataformas de inteligencia artificial. La falla se originó en la región US-East-1, ubicada en Virginia del Norte, 
+y se propagó rápidamente a otras zonas, causando inestabilidad en redes y servicios críticos. Amazon reconoció la falla 
+y prometió investigar la causa, que finalmente se atribuyó a una actualización defectuosa del sistema de balanceo de carga. 
+La interrupción también puso de relieve la dependencia excesiva del mundo digital en pocos proveedores de nube y la necesidad de 
+adoptar arquitecturas multicloud y sistemas de recuperación ante desastres. Además, la interrupción generó pérdidas temporales en 
+operaciones de negocios en Latinoamérica. Amazon prometió medidas correctivas, incluyendo una revisión de sus protocolos de despliegue continuo 
+y una mejora en los sistemas de aislamiento entre regiones.

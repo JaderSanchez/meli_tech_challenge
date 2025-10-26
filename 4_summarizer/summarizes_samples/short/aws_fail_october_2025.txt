@@ -1,0 +1,5 @@
+En octubre de 2025, Amazon Web Services (AWS) experimentó su mayor interrupción, 
+afectando servicios esenciales globales y causando pérdidas temporales para muchas empresas. 
+La caída se originó por una actualización defectuosa a su sistema de balanceo de carga, 
+propagándose rápidamente a otras regiones. Amazon reconoció el incidente y prometió mejorar sus protocolos 
+y sistemas de aislamiento en un informe técnico compartido antes de fin de mes.

@@ -1,0 +1,7 @@
+- Un fallo en la actualización del sistema de balanceo de carga en AWS causó una interrupción global que afectó servicios importantes y provocó una caída del tráfico global de internet.
+- La interrupción afectó a grandes compañías tecnológicas, servicios de streaming y aplicaciones de entrega, causando interrupciones totales o lentitud extrema.
+- Amazon emitió un comunicado inicial reconociendo el fallo y aseguró que su equipo de ingeniería estaba trabajando para restablecer la conectividad.
+- La coordinación interna para identificar la causa raíz fue afectada por la magnitud del problema, lo que prolongó la interrupción.
+- El incidente tuvo un impacto significativo en Latinoamérica, afectando plataformas de e-commerce, bancos digitales y servicios de logística.
+- Amazon anunció que tomará medidas correctivas inmediatas, incluyendo una revisión completa de sus protocolos de despliegue continuo y una mejora en los sistemas de aislamiento entre regiones.
+- El incidente representa una llamada de atención sobre la dependencia excesiva del mundo digital en pocos proveedores de nube y destaca la vulnerabilidad incluso de las infraestructuras más sofisticadas.

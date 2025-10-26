@@ -1,0 +1,12 @@
+- concluida el octubre de 2025, Apple presentó su nueva generación de chips M5 para Mac y iPad Pro.
+- los M5 continúan la línea de desarrollo iniciada con el M1 en 2020, con un enfoque más maduro en AI, procesamiento gráfico y administración de energía.
+- se fabrican con un proceso de 2 nm de TSMC, lo que permite mayor densidad de transistores y una reducción significativa en el consumo de energía.
+- se presentan en tres variantes: M5, M5 Pro y M5 Max, cada una dirigida a distintos segmentos de usuarios.
+- el M5 Max ofrece hasta 16 núcleos de CPU y 40 núcleos de GPU, con soporte para 128 GB de memoria unificada.
+- se incluye una nueva Neural Engine de séptima generación, optimizada para AI y ML, capaz de realizar más de 50 billones de operaciones por segundo.
+- se introduce una arquitectura GPU rediseñada con soporte nativo para ray tracing y mesh shading.
+- se mejoraron los núcle sigma de alto rendimiento del 30% y los de eficiencia un 40%, lo que mejora la autonomía de los portátiles.
+- el chip integra una nueva versión del Secure Enclave, un motor criptográfico reforzado y un controlador dedicado para proteger la integridad del sistema operativo.
+- los dispositivos con M5 mantienen temperaturas más estables sin ventiladores más grandes gracias al والسيطرة térmica mejorada.
+- los primeros equipos con M5 comenzaron a distribuirse con macOS Sequoia, optimizado para las nuevas capacidades de IA y gráficos.
+- el chip M5 reafirma el liderazgo de Apple en el desarrollo de procesadores personalizados, con una combinación de potencia, eficiencia e integración con el software.
